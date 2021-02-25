@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "rate": "/components/rate/rate"
+  },
+  "component": true
+}

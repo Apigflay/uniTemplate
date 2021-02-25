@@ -1,0 +1,3 @@
+<view data-event-opts="{{[['tap',[['switch_loading',['$event']]]]]}}" hidden="{{!(is_alltoast)}}" class="loading_box" bindtap="__e"><view class="loading">11111111
+			222222222
+			3333333<view class="loader loader-17"><view class="css-square square1"></view><view class="css-square square2"></view><view class="css-square square3"></view><view class="css-square square4"></view><view class="css-square square5"></view><view class="css-square square6"></view><view class="css-square square7"></view><view class="css-square square8"></view></view></view></view>

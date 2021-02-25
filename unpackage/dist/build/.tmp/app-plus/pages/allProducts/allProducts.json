@@ -1,0 +1,7 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar",
+    "navigationbar": "/components/navigation-bar/navigation-bar"
+  }
+}

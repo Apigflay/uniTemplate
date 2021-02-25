@@ -1,0 +1,1 @@
+<view><navigationbar vue-id="1" bind:__l="__l"></navigationbar>宝贝分类<tabbar vue-id="2" tabbar-id="{{tabbarId}}" bind:__l="__l"></tabbar></view>

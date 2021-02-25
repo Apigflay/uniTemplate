@@ -1,0 +1,6 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}

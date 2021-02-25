@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar",
+    "navigationbar": "/components/navigation-bar/navigation-bar",
+    "scrollbar": "/components/scrollbar/scrollbar",
+    "verticalscroll-bar": "/components/verticalscroll-bar/verticalscroll-bar"
+  }
+}

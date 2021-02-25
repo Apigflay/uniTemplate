@@ -1,0 +1,1 @@
+<view class="tabbarArea"><block wx:for="{{tabIcon}}" wx:for-item="item" wx:for-index="index" wx:key="icon"><view class="{{['per',index==pageId?'perRed':'']}}" id="{{index}}" data-event-opts="{{[['tap',[['getClickPer',['$event']]]]]}}" bindtap="__e"><text class="{{['icon',item.icon]}}"></text><text class="text">{{item.text}}</text></view></block></view>

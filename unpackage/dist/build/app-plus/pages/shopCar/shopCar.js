@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nbody { width: 100%; height: 100%; }\n.",[1],"shopcarArea .",[1],"titleArea { height: ",[0,90],"; width: 100%; background: #cecece; font-size: ",[0,24],"; line-height: ",[0,90],"; }\n.",[1],"shopcarArea .",[1],"titleArea .",[1],"iconfont { padding: ",[0,15],"; }\n.",[1],"shopcarArea .",[1],"clickArea { height: ",[0,300],"; background: #cecece; }\n",],undefined,{path:"./pages/shopCar/shopCar.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/shopCar/shopCar.wxml') } }));

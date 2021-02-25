@@ -1,0 +1,54 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",//首页
+			"style": {
+				"app-plus": {		//禁用原声导航
+				                  "titleNView": false,
+								  //禁用滚动条效果
+								  "scrollIndicator":"none"
+				}
+			}
+		}
+	    ,{
+            "path" : "pages/allProducts/allProducts",//全部产品
+            "style" : {
+				"app-plus": {
+				                  "titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/commodityClassification/commodityClassification",//商品分类
+            "style" : {
+				"app-plus": {
+				                  "titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/shopMembers/shopMembers",//店铺会员
+            "style" : {
+				"app-plus": {
+				                  "titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/shopCar/shopCar",
+            "style" : {
+				"app-plus": {
+				                  "titleNView": false
+				}
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",//导航栏标题颜色及状态栏前景颜色，仅支持 black/white
+		"navigationBarTitleText": "templateH5",//导航栏标题文字内容
+		"navigationBarBackgroundColor": "#F8F8F8",//导航栏背景颜色（同状态栏背景色）
+		"backgroundColor": "#F8F8F8",//窗口的背景色
+		"onReachBottomDistance":50,//页面上拉触底事件触发时距页面底部距离，单位只支持px，详见页面生命周期
+		"scrollIndicator":"none"//
+	}
+}

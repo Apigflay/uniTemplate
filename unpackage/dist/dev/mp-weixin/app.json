@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/allProducts/allProducts",
+    "pages/commodityClassification/commodityClassification",
+    "pages/shopMembers/shopMembers",
+    "pages/shopCar/shopCar"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "templateH5",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "onReachBottomDistance": 50,
+    "scrollIndicator": "none"
+  },
+  "usingComponents": {
+    "toast": "/components/toast/toast"
+  }
+}
